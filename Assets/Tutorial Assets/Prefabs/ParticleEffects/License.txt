@@ -1,0 +1,27 @@
+
+--------------------------------------------------------------
+Cartoon FX
+--------------------------------------------------------------
+
+These assets are not for commercial use and where provided by:
+
+Jean Moreno (JMO)
+http://www.jeanmoreno.com/
+https://assetstore.unity.com/publishers/1669
+
+
+Please purchase JMO's assets in the Unity Asset Store to be able to use them for your projects:
+https://assetstore.unity.com/publishers/1669
+
+
+Cartoon FX Free:
+https://assetstore.unity.com/packages/vfx/particles/cartoon-fx-free-109565
+
+Cartoon FX Remaster:
+https://assetstore.unity.com/packages/vfx/particles/cartoon-fx-remaster-4010
+
+Cartoon FX 2 Remaster:
+https://assetstore.unity.com/packages/vfx/particles/cartoon-fx-2-remaster-4274
+
+
+Huge thanks to Jean Moreno for allowing the use of his Cartoon FX assets!

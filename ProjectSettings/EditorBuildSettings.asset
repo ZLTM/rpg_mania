@@ -4,5 +4,21 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Start Menu.unity
+    guid: 62fe7d009787f7d4e836c0c36254e7a5
+  - enabled: 1
+    path: Assets/Scenes/World.unity
+    guid: 77dfe87c63ad3014a942a0d4221e701a
+  - enabled: 1
+    path: Assets/Scenes/Dungeon.unity
+    guid: c23fae29a1772834fbf53131b41d59fe
+  - enabled: 1
+    path: Assets/Scenes/Forest Battle Arena.unity
+    guid: 63d95937b65fbe34c995c1640509cb5a
+  - enabled: 1
+    path: Assets/Scenes/Dungeon Battle Arena.unity
+    guid: 89f53162a4204d645b441e1310e54735
   m_configObjects: {}
+  m_UseUCBPForAssetBundles: 0
