@@ -17,13 +17,13 @@ MonoBehaviour:
   lastEncrypted: 0
   editorHelpLanguageTexts: {fileID: 0}
   section: 3
-  subSection: 0
+  subSection: 8
   tabIndex: -1
   scrollY: 0
   foldoutLimit: 
   helpDrag: 220
   subSectionDrag: 250
-  tabListDrag: 250
+  tabListDrag: 249
   formulaDrag: 250
   schematicDrag: 400
   jumpListDrag: 250
@@ -35,7 +35,8 @@ MonoBehaviour:
   updatePrefabs: 0
   updateScenes: 0
   sceneUpdate: 
-  schematicAsset: []
+  schematicAsset:
+  - {fileID: 11400000, guid: 00a4ea76e9c3d34439d639b2daedd4ad, type: 2}
   dialogueImportSettings:
     name: 
     byteData: 
